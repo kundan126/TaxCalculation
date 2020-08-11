@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\bin\Debug\netcoreapp2.1\TaxCalculationDataAPI.deps.json
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\bin\Debug\netcoreapp2.1\TaxCalculationDataAPI.runtimeconfig.json
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\bin\Debug\netcoreapp2.1\TaxCalculationDataAPI.runtimeconfig.dev.json
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\bin\Debug\netcoreapp2.1\TaxCalculationDataAPI.dll
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\bin\Debug\netcoreapp2.1\TaxCalculationDataAPI.pdb
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\obj\Debug\netcoreapp2.1\TaxCalculationDataAPI.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\obj\Debug\netcoreapp2.1\TaxCalculationDataAPI.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\obj\Debug\netcoreapp2.1\TaxCalculationDataAPI.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\obj\Debug\netcoreapp2.1\TaxCalculationDataAPI.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\obj\Debug\netcoreapp2.1\TaxCalculationDataAPI.AssemblyInfo.cs
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\obj\Debug\netcoreapp2.1\TaxCalculationDataAPI.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\obj\Debug\netcoreapp2.1\TaxCalculationDataAPI.dll
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\obj\Debug\netcoreapp2.1\TaxCalculationDataAPI.pdb
+C:\Users\admin\source\repos\TaxCalculationDataAPI\TaxCalculationDataAPI\obj\Debug\netcoreapp2.1\TaxCalculationDataAPI.csprojAssemblyReference.cache
